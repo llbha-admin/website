@@ -27,6 +27,12 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 copyright: Copyright &copy; 2023 Long Lake Beach Homes Association
 extra:
+  analytics:
+    provider: google
+    property: G-0TPKMDPGCD
   generator: false
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/groups/391511261049409/
 extra_css:
   - stylesheets/extra.css
