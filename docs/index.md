@@ -11,3 +11,4 @@ Organized in 1938 for the purpose of improving and beautifying Long Lakes Beachf
 If you are an existing member, please consider joining our [Facebook group](https://www.facebook.com/groups/391511261049409/)
 
 Incorporated August 13, 1938
+
