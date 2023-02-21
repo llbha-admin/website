@@ -1,0 +1,32 @@
+site_name: Long Lake Beach Homes Association
+theme:
+  name: material
+  icon:
+    logo: material/home-group
+  font:
+    text: Roboto
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/lightbulb-outline 
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo 
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+markdown_extensions:
+  - meta
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+copyright: Copyright &copy; 2023 Long Lake Beach Homes Association
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
